@@ -438,6 +438,10 @@
         height: auto;
         padding-bottom: 20px;
     }
+
+    .team .wrap-box-card {
+        margin-bottom: 40px;
+    }
 }
 
 
